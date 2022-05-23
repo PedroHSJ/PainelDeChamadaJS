@@ -1,0 +1,16 @@
+{
+  "name": "host-app-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js db.json"
+  },
+  "dependencies": {
+    "json-server": "0.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
